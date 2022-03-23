@@ -1,0 +1,4 @@
+name: YachtDice
+version: '${project.version}'
+main: casper.plugin.YachtDice
+api-version: 1.18
