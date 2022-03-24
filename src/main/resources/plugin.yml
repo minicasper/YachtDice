@@ -2,3 +2,10 @@ name: YachtDice
 version: '${project.version}'
 main: casper.plugin.YachtDice
 api-version: 1.18
+commands:
+  joinYacht:
+    description: 야추 참가
+    usage: /joinYacht
+  joinYacht2:
+    description: 야추 참가2
+    usage: /joinYacht2
